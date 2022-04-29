@@ -15,6 +15,10 @@ public class sample {
 			}
 		
 		System.out.println("Reverse of entered string is:"+reverse);
+<<<<<<< HEAD
+		
+=======
+>>>>>>> f0a89fa1c4af456f82e3d86af4d77d2da61f6ac4
 		
 	}
 
